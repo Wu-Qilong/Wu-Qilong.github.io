@@ -1,4 +1,5 @@
-baseURL: /
+baseURL: ""
+url: "https://wu-qilong.github.io"
 languageCode: en-us
 build:
   writeStats: true
