@@ -31,6 +31,3 @@ Go to `static/images` and replace the `profile.jpg` with your own file.
 
 The `aafu` theme provides `light` and `dark` theme.
 
-## Reporting Issues
-
-If you have discovered a bug or have a feature request, [create an issue](https://github.com/darshanbaral/aafu/issues/new).
